@@ -1,0 +1,31 @@
+{
+  "details": [
+    {
+      "firstname": "Gireeshkumar",
+      "lastname": "Ediga",
+      "email": "egireeshkumar99@gmail.com",
+      "number": "7997432307",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "date": "1999-02-24",
+      "status": "false",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "firstname": "Lakshmi",
+      "lastname": "pacha",
+      "email": "pachalakshmi@gmail.com",
+      "number": "23456",
+      "date": "1999-09-29"
+    },
+    {
+      "id": 3,
+      "firstname": "maheshwari",
+      "lastname": "komme",
+      "email": "kommemaheshwari@gmail.com",
+      "number": "34567",
+      "date": "1999-02-02"
+    }
+  ]
+}
